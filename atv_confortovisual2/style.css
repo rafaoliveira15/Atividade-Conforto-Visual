@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    transition: 0.3s;
+}
+
+/* MENU / TOPO */
+#menu {
+    background-color: #f2f2f2;
+    padding: 20px 40px;
+}
+
+#menu h1 {
+    margin: 0;
+    text-align: center;
+}
+
+/* CORPO */
+main {
+    padding: 60px 40px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#texto {
+    max-width: 600px;
+    margin: 0 auto 30px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* BOTÕES */
+.botoes button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
